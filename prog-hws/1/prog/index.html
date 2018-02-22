@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<!--
+    John Kilgo
+    Graduate Computer Graphics I
+    Drawing 2D Graphics
+-->
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Drawing 2D Graphics</title>
+    </head>
+
+    <style>
+        /* Styles */
+        #canvas {
+            border: 1px solid #c3c3c3;
+            /* height: 500px;
+            width: 100%; */
+        }
+        .btn {
+            background-color: #355e3b;
+            border: none;
+            color: white;
+            padding: 7px 17px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+        }
+    </style>
+
+    <body>
+        <h2>John Kilgo - Drawing 2D Graphics - 16:9</h2>
+
+        <p>
+            <button class="btn" id="line">Line</button>
+            <button class="btn" id="circle">Circle</button>
+            <button class="btn" id="ellipse">Ellipse</button>
+            <button class="btn" id="rectangle">Rectangle</button>
+            <button class="btn" id="polyline">Poly Line</button>
+            <button class="btn" id="polygon">Polygon Start</button>
+            <button class="btn" id="endPolygon" style="visibility:hidden;">Close Polygon</button>
+            <button class="btn" id="clear">Clear</button>
+        </p>
+
+        <canvas id="canvas" width="1000" height="563"></canvas>
+
+        <p>Current Point: <span id="x"></span>, <span id="y"></span> | <span id="status"><i>Status</i></span> | Instructions: <span id="specialMessage"></span></p>
+
+        <script src="prog.js" type="text/javascript"></script>
+
+        <script type="text/javascript">
+            // Set up the Canvas
+            setupCanvas("canvas");
+
+        </script>
+
+        
+    </body>
+</html>
