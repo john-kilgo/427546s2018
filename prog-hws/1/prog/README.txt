@@ -27,6 +27,11 @@ As I learned more about the canvas, my code base grew. Had I had much more time,
 
 My submission includes code written by myself, using references for general knowledge, and notices of where I have borrowed or copied from other sources.
 
+To Impress I Did:
+- Change button colors
+- Rubberbanding
+- Write clear code
+
 This is entirely my own work, except as disclosed in 
 the documentation and as commented within my work.
 
