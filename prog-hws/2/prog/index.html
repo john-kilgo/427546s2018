@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<!--
+    John Kilgo
+    Graduate Computer Graphics I
+-->
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Drawing 2D Graphics</title>
+    </head>
+
+    <style>
+        /* Styles */
+        #canvas {
+            border: 1px solid #c3c3c3;
+            /* height: 500px;
+            width: 100%; */
+        }
+        .btn {
+            background-color: #355e3b;
+            border: none;
+            color: white;
+            padding: 7px 17px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+        }
+    </style>
+
+    <body>
+        <h2>John Kilgo - Problem 2</h2>
+
+        <p>
+            Score: <input id="wheelScore" value="85" max="100" type="number"> 
+            Radius: <input id="wheelRadius" value="75" max="225" type="number"> 
+            <br />
+            <button class="btn" id="applyWheel">Apply Settings</button>
+        </p>
+
+        <canvas id="canvasWheel" width="450" height="450"></canvas>
+
+        <script src="prog.js" type="text/javascript"></script>
+        
+    </body>
+</html>
