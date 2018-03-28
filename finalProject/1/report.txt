@@ -1,0 +1,16 @@
+John Kilgo
+Report on Final Project
+
+Week 1:
+For week one I spent time working on getting used to the three.js library.
+I implemented a 3D shape with an animation and limited user controls.
+
+I added text and a cube, and I worked to learn more about three.js.
+
+I accomplished requirements (1) and (2) per the assignment email:
+- 1 Create and store a 3D object
+- 2 Transform an object
+
+The goal for week 2 is to get the user involved with the object and
+its position and placement. In week 2 I would also like to make
+my canvas change when the screen is resized.

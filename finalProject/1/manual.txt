@@ -1,0 +1,9 @@
+John Kilgo
+Manual
+
+For this stage of the project I am merely
+getting ready and learning to use the
+three.js library. 
+
+Simply load index.html to see a 3D shape
+you can drag and move with a mouse.
