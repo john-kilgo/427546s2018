@@ -1,0 +1,8 @@
+John Kilgo
+Manual
+
+Load Index.html.
+
+The buttons are for features that are not yet implemented.
+
+To check out how the viewing controls work, click and drag with your mouse.
