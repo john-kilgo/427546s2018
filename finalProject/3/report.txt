@@ -1,0 +1,39 @@
+John Kilgo
+Report on Final Project
+
+Week 3:
+For week 3 I implemented the ability to disable and enable the orbit controls.
+
+I also started the ability to add new objects to the scene (add cube button) but was not able 
+to get it working in the time alloted. The goal next week is to be able
+to add more objects dynamically to the scene.
+
+Week 2:
+For Week 2 I implemented the ability for users to rotate the cube themselves.
+
+After some google searching, I found a plugin called OrbitControls from Three JS:
+https://threejs.org/docs/#examples/controls/OrbitControls
+
+I also re-wrote my underlying implementation to make it easier to expand for the next installment.
+
+I found a few issues with making the canvas full screen, I found a fix for this by
+setting the canvas element to be display:block 
+(https://stackoverflow.com/questions/10425310/three-js-full-screen-issue.)
+
+My goal this time changed a bit due to being more ambitious with planning
+than what I could complete in the alloted time. My hope is that by improving the layout and controls
+of my canvas that with the next installation I can add more opportunities for user input.
+
+Week 1:
+For week one I spent time working on getting used to the three.js library.
+I implemented a 3D shape with an animation and limited user controls.
+
+I added text and a cube, and I worked to learn more about three.js.
+
+I accomplished requirements (1) and (2) per the assignment email:
+- 1 Create and store a 3D object
+- 2 Transform an object
+
+The goal for week 2 is to get the user involved with the object and
+its position and placement. In week 2 I would also like to make
+my canvas change when the screen is resized.
