@@ -1,0 +1,13 @@
+John Kilgo
+Manual
+
+Load Index.html.
+
+To check out how the viewing controls work, click and drag with your mouse.
+
+Can also use the four arrow keys on keyboard to manipulate the orbit.
+
+Use the add cube button to add a cube.
+
+The reset button allow the orbit to be reset but does not reset the Scene 
+(this means objects will be retained).
