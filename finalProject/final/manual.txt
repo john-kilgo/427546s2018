@@ -1,0 +1,20 @@
+John Kilgo
+Manual
+
+Load Index.html.
+
+To check out how the viewing controls work, click and drag with your mouse.
+
+Can also use the four arrow keys on keyboard to manipulate the orbit.
+
+Use the add cube button to add a cube.
+Use the add cone button to add a cone.
+
+The reset button allow the orbit to be reset but does not reset the Scene 
+(this means objects will be retained).
+
+The Camera Near slider does not work. If you use it, you will need to reload the page.
+
+Set the Textures Choice before creating the next object.
+
+Use the scale slider to adjust the scale of the object last created.
